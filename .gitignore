@@ -10,3 +10,7 @@ deploy.zip
 .tools/
 gh-login.log
 fade-login.log
+*.log
+altr-*.log
+templates.json
+info.json
