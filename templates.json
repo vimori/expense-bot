@@ -1,0 +1,302 @@
+﻿[
+  {
+    "eggId": 1,
+    "name": "Minecraft - BungeeCord",
+    "sandbox": false
+  },
+  {
+    "eggId": 2,
+    "name": "Minecraft - Vanilla Java",
+    "sandbox": false
+  },
+  {
+    "eggId": 3,
+    "name": "Minecraft - Sponge",
+    "sandbox": false
+  },
+  {
+    "eggId": 4,
+    "name": "Minecraft - Paper",
+    "sandbox": false
+  },
+  {
+    "eggId": 5,
+    "name": "Minecraft - Forge",
+    "sandbox": false
+  },
+  {
+    "eggId": 15,
+    "name": "Minecraft - Vanilla Bedrock",
+    "sandbox": false
+  },
+  {
+    "eggId": 16,
+    "name": "Minecraft - PocketmineMP",
+    "sandbox": false
+  },
+  {
+    "eggId": 17,
+    "name": "Minecraft - Fabric",
+    "sandbox": false
+  },
+  {
+    "eggId": 18,
+    "name": "Minecraft - NeoForge",
+    "sandbox": false
+  },
+  {
+    "eggId": 19,
+    "name": "Generic - Bun",
+    "sandbox": false
+  },
+  {
+    "eggId": 20,
+    "name": "Generic - Node.js",
+    "sandbox": false
+  },
+  {
+    "eggId": 21,
+    "name": "Generic - Python",
+    "sandbox": false
+  },
+  {
+    "eggId": 22,
+    "name": "Bungeecord",
+    "sandbox": false
+  },
+  {
+    "eggId": 23,
+    "name": "Vanilla Minecraft",
+    "sandbox": false
+  },
+  {
+    "eggId": 24,
+    "name": "Sponge (SpongeVanilla)",
+    "sandbox": false
+  },
+  {
+    "eggId": 25,
+    "name": "Paper",
+    "sandbox": false
+  },
+  {
+    "eggId": 26,
+    "name": "Forge Minecraft",
+    "sandbox": false
+  },
+  {
+    "eggId": 35,
+    "name": "Minecraft - Velocity",
+    "sandbox": false
+  },
+  {
+    "eggId": 36,
+    "name": "rust generic",
+    "sandbox": false
+  },
+  {
+    "eggId": 37,
+    "name": "Go",
+    "sandbox": false
+  },
+  {
+    "eggId": 42,
+    "name": "C++",
+    "sandbox": false
+  },
+  {
+    "eggId": 43,
+    "name": "Generic - Debian",
+    "sandbox": false
+  },
+  {
+    "eggId": 60,
+    "name": "Minecraft - LeafMC",
+    "sandbox": false
+  },
+  {
+    "eggId": 65,
+    "name": "Generic - TypeScript",
+    "sandbox": false
+  },
+  {
+    "eggId": 66,
+    "name": "Generic - Kotlin",
+    "sandbox": false
+  },
+  {
+    "eggId": 6,
+    "name": "Source - Custom Source Engine Game",
+    "sandbox": false
+  },
+  {
+    "eggId": 7,
+    "name": "Source - Team Fortress 2",
+    "sandbox": false
+  },
+  {
+    "eggId": 8,
+    "name": "Source - Garrys Mod",
+    "sandbox": false
+  },
+  {
+    "eggId": 9,
+    "name": "Source - CS:GO",
+    "sandbox": false
+  },
+  {
+    "eggId": 10,
+    "name": "Source - Ark: Survival Evolved",
+    "sandbox": false
+  },
+  {
+    "eggId": 11,
+    "name": "Insurgency",
+    "sandbox": false
+  },
+  {
+    "eggId": 27,
+    "name": "Custom Source Engine Game",
+    "sandbox": false
+  },
+  {
+    "eggId": 28,
+    "name": "Team Fortress 2",
+    "sandbox": false
+  },
+  {
+    "eggId": 29,
+    "name": "Garrys Mod",
+    "sandbox": false
+  },
+  {
+    "eggId": 30,
+    "name": "Counter-Strike: Global Offensive",
+    "sandbox": false
+  },
+  {
+    "eggId": 31,
+    "name": "Ark: Survival Evolved",
+    "sandbox": false
+  },
+  {
+    "eggId": 38,
+    "name": "SAN ANDREAS MULTIPLAYER",
+    "sandbox": false
+  },
+  {
+    "eggId": 39,
+    "name": "Redis-7",
+    "sandbox": false
+  },
+  {
+    "eggId": 12,
+    "name": "Voice - Teamspeak3 Server",
+    "sandbox": false
+  },
+  {
+    "eggId": 13,
+    "name": "Voice - Mumble Server",
+    "sandbox": false
+  },
+  {
+    "eggId": 32,
+    "name": "Teamspeak3 Server",
+    "sandbox": false
+  },
+  {
+    "eggId": 33,
+    "name": "Mumble Server",
+    "sandbox": false
+  },
+  {
+    "eggId": 14,
+    "name": "Games - Rust",
+    "sandbox": false
+  },
+  {
+    "eggId": 44,
+    "name": "Rust",
+    "sandbox": false
+  },
+  {
+    "eggId": 45,
+    "name": "Ubuntu 26.04",
+    "sandbox": true
+  },
+  {
+    "eggId": 46,
+    "name": "Ubuntu 24.04",
+    "sandbox": true
+  },
+  {
+    "eggId": 47,
+    "name": "Debian 13",
+    "sandbox": true
+  },
+  {
+    "eggId": 48,
+    "name": "Debian 12",
+    "sandbox": true
+  },
+  {
+    "eggId": 49,
+    "name": "Alpine 3.23",
+    "sandbox": true
+  },
+  {
+    "eggId": 50,
+    "name": "Fedora 44",
+    "sandbox": true
+  },
+  {
+    "eggId": 51,
+    "name": "Rocky Linux 9",
+    "sandbox": true
+  },
+  {
+    "eggId": 52,
+    "name": "AlmaLinux 10",
+    "sandbox": true
+  },
+  {
+    "eggId": 53,
+    "name": "Arch Linux",
+    "sandbox": true
+  },
+  {
+    "eggId": 54,
+    "name": "Custom image",
+    "sandbox": true
+  },
+  {
+    "eggId": 55,
+    "name": "Node.js app",
+    "sandbox": false
+  },
+  {
+    "eggId": 56,
+    "name": "Bun app",
+    "sandbox": false
+  },
+  {
+    "eggId": 57,
+    "name": "Python app",
+    "sandbox": false
+  },
+  {
+    "eggId": 58,
+    "name": "Go app",
+    "sandbox": false
+  },
+  {
+    "eggId": 59,
+    "name": "Rust app",
+    "sandbox": false
+  },
+  {
+    "eggId": 64,
+    "name": "Docker image",
+    "sandbox": false
+  }
+]

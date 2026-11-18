@@ -6,3 +6,7 @@ __pycache__/
 *.db-wal
 *.db-shm
 bot.log
+deploy.zip
+.tools/
+gh-login.log
+fade-login.log
